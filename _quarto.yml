@@ -1,0 +1,4 @@
+project:
+  title: "lab-attendance"
+  type: website
+  output-dir: docs

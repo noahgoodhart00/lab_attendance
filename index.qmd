@@ -1,0 +1,8 @@
+---
+title: "lab-attendance"
+name: Noah Goodhart
+format: html
+editor: visual
+---
+
+\#
