@@ -1,8 +1,8 @@
 ---
-title: "lab-attendance"
+title: "Lab Attendance"
 name: Noah Goodhart
 format: html
 editor: visual
 ---
 
-\#
+##I learned how to create a clone, add an image, push and commit changes to my repository.
